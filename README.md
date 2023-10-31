@@ -23,7 +23,7 @@ MovieLand is a simple React web application that allows users to search for movi
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/movieland.git
+git clone https://github.com/ylonmgan14/react-movie-site.git
 ```
 
 2. Change directory to the project folder:
