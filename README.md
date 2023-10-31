@@ -82,5 +82,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Happy movie searching!
 ```
-
-You can add this README file to the root directory of your project and customize it as needed. It provides information about your project, how to install and use it, how to contribute, and any licensing information.
